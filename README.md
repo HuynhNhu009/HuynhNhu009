@@ -26,9 +26,6 @@
   <a href="" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
   <a href="mailto:chophen26062003@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
@@ -43,6 +40,8 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+  <img src="https://img.icons8.com/?size48&id=4djt356tq8UO&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=48&id=iWw83PVcBpLw&format=png&color=000000"/>
 </p>
 
 ## Activities:
