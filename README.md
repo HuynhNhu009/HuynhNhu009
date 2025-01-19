@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm HuynhNhu</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">Hi, I’m HuynhNhu (you can call me "Lior"), a passionate IT student who believes in continuous learning and growth. I’m focused on improving my coding skills and building meaningful projects, one step at a time. I strive to contribute to the tech world with humility and innovation.📖 💻 🔋 </h3>
 </p>
 
 > ✍ I am a student at CTU, and my major is Software Engineering.
