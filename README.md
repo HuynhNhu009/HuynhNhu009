@@ -4,7 +4,8 @@
 
 <h2 align="center">Hi 👋, I'm HuynhNhu</h2>
 <p align="center">
-  <h3 align="center">Hi, I’m HuynhNhu (you can call me "Lior"), a passionate IT student who believes in continuous learning and growth. I’m focused on improving my coding skills and building meaningful projects, one step at a time. I strive to contribute to the tech world with humility and innovation.📖 💻 🔋 </h3>
+  <h3 align="center">Hi, I’m HuynhNhu (you can call me 'Lior'), a passionate IT student who is still learning how to fix my code.
+    📖 💻 🔋 </h3>
 </p>
 
 > ✍ I am a student at CTU, and my major is Software Engineering.
@@ -54,7 +55,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://gifdb.com/images/high/big-eyes-cat-on-computer-0fdm21yvkyp4k0bg.gif"/>
       </p>
     </td>
   </tr>
