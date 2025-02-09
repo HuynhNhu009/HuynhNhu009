@@ -4,7 +4,7 @@
 
 <h2 align="center">Hello, guys!</h2>
 <p align="center">
-  <h3 align="center">I’m Huynh Nhu, by the way, a passionate IT student who is still learning how to fix my code.
+  <h3 align="center">I’m Huynh Nhu, a passionate IT student who is still learning how to fix my code.
     📖 💻 🔋 </h3>
 </p>
 
