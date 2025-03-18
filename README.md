@@ -2,15 +2,23 @@
 <img align="right" width="64" src="https://github.com/HuynhNhu009.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hello, guys!</h2>
-<p align="center">
-  <h3 align="center">I’m Huynh Nhu, a passionate IT student who is still learning how to fix my code.
-    📖 💻 🔋 </h3>
-</p>
+<h2 align="center">Hi there!</h2>
 
-> ✍ I'm a student at CTU, and my major is Software Engineering, course K47.
+<h3 align="center">I’m Mikah (Mika) - a lifelong learner in tech. 🚀 </h3>
+
+> 🎓 A Software Engineering student at CTU (K47).  
+> 🛠️ Software engineer by day, bug exorcist by night.  
+> 🐛 90% of my coding time is spent fixing bugs. The other 10%? Creating new ones!  
+> 💪 I've set a challenge for myself, and under God's guidance, I will see it through—no matter what it takes.  
 
 <br />
+
+### 🧐 About Me  
+- 🚀 Passionate about coding, hiking, music, and reading—especially detective and psychological thriller stories.  
+- 🎯 My goal: To improve myself every day and live with purpose.  
+- 🍵 My fuel? Tea, juice, and energy drinks – because coffee is not my thing.  
+- 🕵️‍♂️ Always curious, always exploring.
+
 
 [![Join the chat at https://gitter.im/HuynhNhu009/Github-Profile-Tutorial](https://badges.gitter.im/HuynhNhu009/Github-Profile-Tutorial.svg)](https://gitter.im/HuynhNhu009/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=HuynhNhu009&style=flat-square)
@@ -62,7 +70,7 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/HuynhNhu009" alt="Github">
